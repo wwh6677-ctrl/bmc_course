@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "852283912776",
+    "project_id": "bmc-course",
+    "storage_bucket": "bmc-course.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852283912776:android:6e55ab6f6b6eb07a385e7d",
+        "android_client_info": {
+          "package_name": "com.mycompany.bmccourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852283912776-6lro0ndm5ji8m3c7psk0v9h909d7du6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bmccourse",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "852283912776-n7n32jgb6sqmc7dgl23lon3ut9lb08u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG09lSHTUVovZ6h35fXuo7Z8Fov9BoaxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852283912776-n7n32jgb6sqmc7dgl23lon3ut9lb08u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852283912776-aotn9ersrrv8gh584hduh1rnspes0c8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bmccourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
